@@ -1,9 +1,9 @@
 # :wave: :smile: Hello! My name is Jacob! :computer: 
 
 #### I teach at Crescenta Valley High School!
-#### * AP Computer Science
-#### * Applied Computer Programming
-#### * Honors Software Development.
+#### - AP Computer Science
+#### - Applied Computer Programming
+#### - Honors Software Development.
 
 #### We go through Java, C++, Python, Unity, and much more!
 
