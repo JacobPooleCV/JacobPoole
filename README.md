@@ -1,2 +1,3 @@
 # JacobPoole
-README Profile
+
+:wave: :smile: Hello! My name is Jacob!
