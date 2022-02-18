@@ -1,10 +1,10 @@
-# :wave: :smile: Hello! My name is Jacob!
+# :wave: :smile: Hello! My name is Jacob! :computer: 
 
-### I teach at Crescenta Valley High School!
-### - AP Computer Science
-### - Applied Computer Programming
-### - Honors Software Development.
+#### I teach at Crescenta Valley High School!
+#### * AP Computer Science
+#### * Applied Computer Programming
+#### * Honors Software Development.
 
-### We go through Java, C++, Python, Unity, and much more!
+#### We go through Java, C++, Python, Unity, and much more!
 
-#### Find my class website [here](https://jacobpoole.net/School)!
+##### Find my class website [here](https://jacobpoole.net/School)!
