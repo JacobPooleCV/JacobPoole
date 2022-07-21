@@ -3,7 +3,7 @@
 I teach at Crescenta Valley High School!
 - AP Computer Science
 - Applied Computer Programming
-- Honors Software Development.
+- Honors Software Development Internship
 
 We go through Java, C++, Python, Unity, and much more!
 
